@@ -1,4 +1,6 @@
 # 🐧🛠️ Hedgehog
+![foto](1foto.png)
+
 
 ## 📄🧾 Información general
 
